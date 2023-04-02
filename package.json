@@ -1,7 +1,7 @@
 {
-  "name": "my-letcode",
+  "name": "faq",
   "version": "1.0.0",
-  "description": "chao31的 letcode 题解",
+  "description": "高瑞琦的cocos知识图谱",
   "scripts": {
     "dev": "docsify serve ./",
     "live": "live-server",
