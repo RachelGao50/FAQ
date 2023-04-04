@@ -1,7 +1,7 @@
 {
   "name": "faq",
   "version": "1.0.0",
-  "description": "高瑞琦的cocos知识图谱",
+  "description": "高瑞琦的知识图谱",
   "scripts": {
     "dev": "docsify serve ./",
     "live": "live-server",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:chao31/myLetcode.git"
+    "url": "git@github.com:RachelGao50/FAQ.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chao31/myLetcode/issues"
+    "url": "https://git@github.com:RachelGao50/FAQ/issues"
   },
-  "homepage": "https://github.com/chao31/myLetcode#readme",
+  "homepage": "https://git@github.com:RachelGao50/FAQ#readme",
   "devDependencies": {
     "docsify-cli": "^4.4.4",
     "http-server": "^14.1.0"
