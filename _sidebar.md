@@ -28,3 +28,16 @@
   
 - 不会
   - [部分排序](docs/不会/sub-sort-lcci.md)
+- 计算机原理
+  - [内存管理](docs/计算机原理/内存管理.md)
+  - [动态库](docs/计算机原理/动态库.md)
+- 编程语言
+  - [JavaScript](docs/编程语言/JavaScript.md)
+  - [TypeScript](docs/编程语言/TypeScript.md)
+- 数据结构
+  - [排序](docs/数据结构/排序.md)
+  - [链表](docs/数据结构/链表.md)
+- 设计模式
+  - [常用设计模式](docs/设计模式/常用设计模式.md)
+- Cocos
+  - [简介](docs/Cocos/简介.md)
